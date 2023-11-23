@@ -261,3 +261,6 @@ input[type="number"] {
   padding: 16px;
   margin-bottom: 30px;
 }
+.carousel-item{
+  height: 70vh;
+}
